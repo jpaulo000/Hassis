@@ -1,0 +1,66 @@
+td.form_divisoes {
+ 		font-family:verdana;
+		font-size:10px;
+		font-weight: bold;
+		text-align:left;
+		background-color:#ffffff;
+		color:#000000;
+		}
+		
+td.form_divisoes_hidden {
+ 		font-family:verdana;
+		font-size:0px;
+		text-align:left;
+		background-color:#ffffff;
+		color:#ffffff;
+		}
+td.form2 {
+ 		font-family:verdana;
+		font-size:14px;
+		font-weight: normal;
+		text-align:left;
+		background-color:#ffffff;
+		color:#000000;
+		}
+td#planilhatop {
+			font-family: verdana;
+			font-size: 13pt;
+			background-color:#ffffff;
+			color: #99CC00;
+			}
+td#planilha {
+			font-family: verdana;
+			font-size: 11pt;
+			background-color:#ffffff;
+			color: #99CC00;
+			}
+hr.linegreen1 {background-color: #829E7A}
+hr.pdi_line_gray0 {background-color: #EBEBEB}
+.formbox {
+ 		font-family:verdana;
+		font-size:12px;
+		font-weight: normal;
+		text-align:left;
+		background-color:#F7F7F7;
+		color:#003366;
+border-top-width:1px;
+border-top-color:#C2CDC9;
+border-top-style:solid;
+border-left-width:1px;
+border-left-color:#C2CDC9;
+border-left-style:solid;
+border-right-width:2px;
+border-right-color:#C2CDC9;
+border-right-style:solid;
+border-bottom-style:solid;
+border-bottom-width:2px;
+border-bottom-color:#C2CDC9;
+		}
+td.form2center {
+ 		font-family:verdana;
+		font-size:10px;
+		font-weight: normal;
+		text-align:center;
+		background-color:#ffffff;
+		color:#000000;
+		}
